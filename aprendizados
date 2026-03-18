@@ -1,0 +1,15 @@
+-> Divisão do projeto em camadas (HTML, CSS, JS)
+-> um arquivo de css para cada HTML.
+-> o arquivo index sempre fica na raiz do projeto (nunca em subpasta)
+-> a fazer deploy(colocar online) das nossas páginas pelo Githubpages
+
+
+-> Pra hoje:
+-> aprender a usar o github no contrário: trazer do remoto (online) para para o local (pc)
+
+
+
+--- TUDO no mesmo projeto
+-> Lethica faz commit 10h da manhã- mas o push foi 17:45
+-> luciano fez commit meio dia - mas o push foi 17:30
+-> Dani fez commit às 17h da tarde e fez o git push ( mandou para o github) às 17h
